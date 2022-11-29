@@ -1,4 +1,6 @@
-package com.develhope.controller_protection_01.auth.controllers.entities;
+package com.develhope.controller_protection_01.auth.entities;
+
+import com.develhope.controller_protection_01.entities.User;
 
 public class LoginRTO {
 
